@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BBTI.iml" filepath="$PROJECT_DIR$/BBTI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../yju_lib_bbti.iml" filepath="$PROJECT_DIR$/../yju_lib_bbti.iml" />
+    </modules>
+  </component>
+</project>

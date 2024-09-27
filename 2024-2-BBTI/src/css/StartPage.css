@@ -1,0 +1,27 @@
+.start-page {
+    justify-content: space-between;
+    height: 100vh;
+}
+
+header {
+    width: 100%;
+    text-align: center;
+}
+
+header > img {
+    width: 40%;
+}
+
+.section-title {
+    width: 100%;
+}
+
+.section-title > img {
+    width: 100%;
+}
+
+.start-page h2 {
+    color: #333;
+    margin-bottom: 20px; /* 제목과 버튼 사이의 여백 */
+}
+
